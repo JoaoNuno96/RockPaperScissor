@@ -1,0 +1,14 @@
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\bin\Debug\net8.0\GameRockPaperSizer.exe
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\bin\Debug\net8.0\GameRockPaperSizer.deps.json
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\bin\Debug\net8.0\GameRockPaperSizer.runtimeconfig.json
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\bin\Debug\net8.0\GameRockPaperSizer.dll
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\bin\Debug\net8.0\GameRockPaperSizer.pdb
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.AssemblyInfoInputs.cache
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.AssemblyInfo.cs
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.csproj.CoreCompileInputs.cache
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.dll
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\refint\GameRockPaperSizer.dll
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.pdb
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\GameRockPaperSizer.genruntimeconfig.cache
+C:\Users\João Nuno\source\repos\GameRockPaperSizer\GameRockPaperSizer\obj\Debug\net8.0\ref\GameRockPaperSizer.dll
