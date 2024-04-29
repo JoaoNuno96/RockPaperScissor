@@ -28,18 +28,18 @@ namespace GameRockPaperSizer.Entities
             MatchCount = match;
         }
 
-        public void Play(string OtherPlayersHand)
+        public void Play(string otherPlayersHand)
         {
 
             if (First.Hand == "ROCK")
             {
-                if (OtherPlayersHand == "PAPER")
+                if (otherPlayersHand == "PAPER")
                 {
                     MatchCount.Add("2");
                     Console.WriteLine("I used Rock and you used Paper.....You WIN!");
 
                 }
-                else if (OtherPlayersHand == "SCISSOR")
+                else if (otherPlayersHand == "SCISSOR")
                 {
                     MatchCount.Add("1");
                     Console.WriteLine("You used Scissor and I used Rock....I WIN!");
@@ -52,11 +52,11 @@ namespace GameRockPaperSizer.Entities
             }
             else if (First.Hand == "PAPER")
             {
-                if (OtherPlayersHand == "PAPER")
+                if (otherPlayersHand == "PAPER")
                 {
                     Console.WriteLine("We both used Paper.....It's a draw");
                 }
-                else if (OtherPlayersHand == "SCISSOR")
+                else if (otherPlayersHand == "SCISSOR")
                 {
                     MatchCount.Add("2");
                     Console.WriteLine("I used Paper and you Scissor.....You Win!");
@@ -69,12 +69,12 @@ namespace GameRockPaperSizer.Entities
             }
             else //if(Simbol == "SCISSOR")
             {
-                if (OtherPlayersHand == "PAPER")
+                if (otherPlayersHand == "PAPER")
                 {
                     MatchCount.Add("1");
                     Console.WriteLine("You used Paper and I used Scissor...I Win!");
                 }
-                else if (OtherPlayersHand == "SCISSOR")
+                else if (otherPlayersHand == "SCISSOR")
                 {
                     Console.WriteLine("We both used Scissor......It's a draw");
                 }

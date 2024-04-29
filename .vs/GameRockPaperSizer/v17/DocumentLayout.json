@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|c:\\users\\jo\u00E3o nuno\\source\\repos\\gamerockpapersizer\\gamerockpapersizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\gamerockpapersizer\\entities\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\entities\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\gamerockpapersizer\\entities\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\entities\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\gamerockpapersizer\\entities\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\entities\\player2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|c:\\users\\jo\u00E3o nuno\\source\\repos\\gamerockpapersizer\\gamerockpapersizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07ADBAC-AE42-42A5-8801-F50B09244E56}|GameRockPaperSizer\\GameRockPaperSizer.csproj|solutionrelative:gamerockpapersizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +36,23 @@
               "RelativeDocumentMoniker": "GameRockPaperSizer\\Entities\\Match.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Entities\\Match.cs",
               "RelativeToolTip": "GameRockPaperSizer\\Entities\\Match.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAAF4AAAANAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T10:55:56.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Player2.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Entities\\Player2.cs",
               "RelativeDocumentMoniker": "GameRockPaperSizer\\Entities\\Player2.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Entities\\Player2.cs",
               "RelativeToolTip": "GameRockPaperSizer\\Entities\\Player2.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T10:54:21.666Z"
+              "WhenOpened": "2024-04-19T10:54:21.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,19 +62,20 @@
               "RelativeDocumentMoniker": "GameRockPaperSizer\\Entities\\Player1.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Entities\\Player1.cs",
               "RelativeToolTip": "GameRockPaperSizer\\Entities\\Player1.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwAoAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T10:54:14.815Z"
+              "WhenOpened": "2024-04-19T10:54:14.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Program.cs",
               "RelativeDocumentMoniker": "GameRockPaperSizer\\Program.cs",
               "ToolTip": "C:\\Users\\Jo\u00E3o Nuno\\source\\repos\\GameRockPaperSizer\\GameRockPaperSizer\\Program.cs",
               "RelativeToolTip": "GameRockPaperSizer\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwCoAAAAjAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T15:52:23.711Z",
               "EditorCaption": ""

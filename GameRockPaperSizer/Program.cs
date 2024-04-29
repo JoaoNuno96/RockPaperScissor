@@ -25,18 +25,18 @@ namespace GameRockPaperSizer
             {
                 if(ListMatch.Count() < 6)
                 {
-                    string messageSelect = "Select";
-                    Console.WriteLine(String.Format("{0," + ((Console.WindowWidth / 2) + (messageSelect.Length / 2)) + "}", messageSelect));
+                    string MessageSelect = "Select";
+                    Console.WriteLine(String.Format("{0," + ((Console.WindowWidth / 2) + (MessageSelect.Length / 2)) + "}", messageSelect));
 
                     Console.CursorLeft = (Console.WindowWidth / 2) - 3;
-                    string choice = Console.ReadLine();
-                    choice = choice.ToUpper();
+                    string Choice = Console.ReadLine();
+                    Choice = Choice.ToUpper();
 
-                    Second.AddHand(choice);
+                    Second.AddHand(Choice);
                     Match.AddDepencies(First, Second, ListMatch);
 
                     First.ProcessHand(First.RNG());
-                    Match.Play(choice);
+                    Match.Play(Choice);
                 }
                 else
                 {
@@ -48,10 +48,6 @@ namespace GameRockPaperSizer
 
             }
             
-
-
-
-
         }
     }
 }

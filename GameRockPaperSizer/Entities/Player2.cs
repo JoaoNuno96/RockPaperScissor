@@ -9,7 +9,6 @@ namespace GameRockPaperSizer.Entities
     class Player2
     {
         public string Hand { get; set; }
-
         public Player2() { }
 
         public void AddHand(string H)
